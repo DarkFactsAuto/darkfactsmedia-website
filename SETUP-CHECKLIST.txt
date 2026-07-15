@@ -1,0 +1,32 @@
+MINIMAL WORK CHECKLIST
+
+1. Unzip this package.
+2. Replace every occurrence of:
+   https://yourdomain.com
+   with your real domain.
+
+3. Replace every email ending in:
+   @yourdomain.com
+   with email addresses you actually monitor.
+
+4. Open the footer in any HTML file and replace the three # links with:
+   your YouTube URL
+   your Instagram URL
+   your TikTok URL
+
+5. Upload all files and folders to one GitHub repository.
+
+6. Connect the repository to Cloudflare Pages:
+   Framework preset: None
+   Build command: blank
+   Output directory: /
+
+7. In Cloudflare Pages, add your purchased domain under Custom Domains.
+
+8. Test:
+   /
+   /privacy.html
+   /terms.html
+   /contact.html
+
+9. Use those live URLs in TikTok, Meta, Google, and other developer portals.

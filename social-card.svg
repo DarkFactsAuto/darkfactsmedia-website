@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#09090b"/><stop offset="1" stop-color="#19151b"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<circle cx="970" cy="120" r="240" fill="#c8a45c" opacity=".12"/>
+<rect x="90" y="110" width="100" height="100" fill="none" stroke="#c8a45c" stroke-width="3"/>
+<text x="140" y="177" text-anchor="middle" fill="#e2c47e" font-family="Georgia,serif" font-size="38" font-weight="700">DF</text>
+<text x="90" y="320" fill="#f5f2e9" font-family="Georgia,serif" font-size="72" font-weight="700">Dark Facts Media</text>
+<text x="90" y="402" fill="#e2c47e" font-family="Georgia,serif" font-size="49">History’s darkest stories. Brought to light.</text>
+<text x="90" y="500" fill="#b8b2a7" font-family="Arial,sans-serif" font-size="27">Documented history • Short-form storytelling</text>
+</svg>
